@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 💻 Projeto Mysql-all-for-one
+Nesse aplicação foi realizado uma série de desafios com diferentes níveis de complexidade para treinar os conceitos de SQl, como busca, filtros e manipulação de tabelas.
+## 📌 Habilidades
+- Busca de dados
+- Filtragem de dados
+- Manipulação de tabelas
+
+### ⬇️ Instalação
+1° cd src/
+2° npm install
