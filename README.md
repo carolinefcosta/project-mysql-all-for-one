@@ -6,5 +6,5 @@ Nesse aplicação foi realizado uma série de desafios com diferentes níveis de
 - Manipulação de tabelas
 
 ### ⬇️ Instalação
-1° cd src/
-2° npm install
+cd src/ </br>
+npm install
